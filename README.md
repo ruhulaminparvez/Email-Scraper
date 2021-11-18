@@ -1,6 +1,10 @@
 # Email-Scraper 📧
-Email scraping is the process of extracting email addresses online to cater to them later. This is a simple Email Extractor. 
+Email scraping is the process of extracting email addresses online to cater to them later. This is a simple Email Extractor/Scraper. 
 
+## Demonstration
+<p align="left">
+  <img width="780" src="previews/email-scraper.gif">
+</p>
 
 ## How Use / Install Email Scraper On Your Local Machine
 
@@ -28,4 +32,7 @@ Run email-scraper.py file using
 ```
 python email-scraper.py
 ```
+
+
+
 
