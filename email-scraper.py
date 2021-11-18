@@ -15,7 +15,7 @@ count = 0
 try:
   while len(urls):
     count += 1
-    if count == 500:
+    if count == 200:
       break
     url = urls.popleft()
     scraped_urls.add(url)
